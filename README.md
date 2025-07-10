@@ -27,4 +27,64 @@ Built using **React**, **Node.js (or Supabase/Firebase)**, and deployed via **Ve
 ---
 
 ## 📁 Project Structure
+neoemporio/
+├── src/
+│ ├── pages/
+│ │ ├── Customer/ → Customer pages (Home, Product, Cart, etc.)
+│ │ └── Admin/ → Admin pages (Dashboard, Inventory, etc.)
+│ ├── components/
+│ ├── assets/
+│ ├── utils/
+│ ├── routes.jsx
+│ └── App.jsx
+├── public/
+├── customer.README.md
+├── admin.README.md
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## ✨ Features
+
+### 🛍️ Customer Site
+
+- Browse products by category
+- Product details with images, ratings, and description
+- Add to cart / remove from cart
+- Responsive design with modern UI
+- Secure login and user profile
+
+### 🛠️ Admin Panel
+
+- Inventory management (Add, Edit, Delete products)
+- Dashboard with sales & analytics
+- Order and customer tracking
+- Admin-only protected routes
+- Product and user management
+
+---
+
+## 🔐 Authentication
+
+- Firebase or Supabase Auth
+- Role-based routing (Admin vs User)
+- Session persistence
+
+---
+
+## ⚙️ Setup Instructions
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/neoemporio.git
+cd neoemporio
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
 
