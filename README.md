@@ -26,27 +26,6 @@ Built using **React**, **Node.js (or Supabase/Firebase)**, and deployed via **Ve
 
 ---
 
-## 📁 Project Structure
-neoemporio/
-├── src/
-│ ├── pages/
-│ │ ├── Customer/ → Customer pages (Home, Product, Cart, etc.)
-│ │ └── Admin/ → Admin pages (Dashboard, Inventory, etc.)
-│ ├── components/
-│ ├── assets/
-│ ├── utils/
-│ ├── routes.jsx
-│ └── App.jsx
-├── public/
-├── customer.README.md
-├── admin.README.md
-└── README.md
-
-yaml
-Copy code
-
----
-
 ## ✨ Features
 
 ### 🛍️ Customer Site
