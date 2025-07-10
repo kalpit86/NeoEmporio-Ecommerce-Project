@@ -1,41 +1,30 @@
-# 🛍️ NeoEmporio – Customer Site
+# 🏬 NeoEmporio
 
-Elegant and modern **Coming Soon landing page** for the customer-facing storefront of **NeoEmporio** — a future-ready e-commerce platform.
-
----
-
-## 🚀 Preview
-
-🌐 [Live Site](https://neoemporio.vercel.app)
+NeoEmporio is a full-stack modern e-commerce platform designed for performance, scalability, and simplicity.  
+Built using **React**, **Node.js (or Supabase/Firebase)**, and deployed via **Vercel**, it supports both a clean customer experience and a powerful admin dashboard.
 
 ---
 
-## 📌 Features
+## 🔗 Live Preview
 
-- ✨ Professional gradient background
-- 🖼️ Custom-designed NeoEmporio logo
-- 📱 Responsive across all screen sizes
-- 📦 Built with **React + Vite + Tailwind CSS**
-- ⚡ Blazing-fast performance
-- 🧠 Clean, minimalist layout with bold headline
+- 🌐 Customer Site: [https://neoemporio.vercel.app](https://neoemporio.vercel.app)
+- 🔐 Admin Panel: [https://neoemporio.vercel.app/admin](https://neoemporio.vercel.app/admin)
 
 ---
 
-## 📁 Tech Stack
+## 📦 Tech Stack
 
-- **Frontend**: React 18, Vite
-- **Styling**: Tailwind CSS (no config overrides)
-- **Hosting**: Vercel
-- **Version Control**: Git & GitHub
+| Layer      | Technology             |
+|------------|------------------------|
+| Frontend   | React + Vite + Tailwind CSS |
+| Backend    | Node.js (or Firebase/Supabase) |
+| State      | React Context / Zustand (or Firebase) |
+| Hosting    | Vercel                 |
+| Auth       | Firebase Auth / Supabase Auth |
+| Database   | Firebase Firestore / Supabase Postgres |
+| Analytics  | Chart.js / Recharts    |
 
 ---
 
-## 🖥️ Setup Instructions
+## 📁 Project Structure
 
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/neoemporio.git
-cd neoemporio
-npm install
-npm run dev
