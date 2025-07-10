@@ -1,16 +1,41 @@
-<<<<<<< HEAD
-# React + Vite
+# 🛍️ NeoEmporio – Customer Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Elegant and modern **Coming Soon landing page** for the customer-facing storefront of **NeoEmporio** — a future-ready e-commerce platform.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Preview
 
-## Expanding the ESLint configuration
+🌐 [Live Site](https://neoemporio.vercel.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# NeoEmporio-Ecommerce-Project
->>>>>>> 0c8aaff2f73da9e4b4be146cf41115555d7138d0
+---
+
+## 📌 Features
+
+- ✨ Professional gradient background
+- 🖼️ Custom-designed NeoEmporio logo
+- 📱 Responsive across all screen sizes
+- 📦 Built with **React + Vite + Tailwind CSS**
+- ⚡ Blazing-fast performance
+- 🧠 Clean, minimalist layout with bold headline
+
+---
+
+## 📁 Tech Stack
+
+- **Frontend**: React 18, Vite
+- **Styling**: Tailwind CSS (no config overrides)
+- **Hosting**: Vercel
+- **Version Control**: Git & GitHub
+
+---
+
+## 🖥️ Setup Instructions
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/your-username/neoemporio.git
+cd neoemporio
+npm install
+npm run dev
